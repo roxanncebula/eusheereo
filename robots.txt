@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peeliefoo.lioliolu.kozow.com/sitemap.xml
